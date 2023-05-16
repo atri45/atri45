@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on START-Lab @ST-Lab
 - 👍 I share some learning materials in my repository
 - 🥰 Hope to make more friends
-- 📫 How to reach me: 
-     \n- 🐧QQ: 1660696144
-     \n- email：1660696144@qq.com
-     \n- zijian.zhang@kangry.net
+- 📫 How to reach me:
+     - 🐧QQ: 1660696144
+     - email：1660696144@qq.com or zijian.zhang@kangry.net
