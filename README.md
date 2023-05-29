@@ -5,4 +5,4 @@
 - 🥰 Hope to make more friends
 - 📫 How to reach me:
      - 🐧QQ: 1660696144
-     - email：1660696144@qq.com or zijian.zhang@kangry.net
+     - Email：1660696144@qq.com or zijian.zhang@kangry.net
