@@ -1,8 +1,8 @@
 - 👋 Hi, I'm Zhang Zijian（张梓健）🐑 @atri45
-- 🌱 I’m an undergraduate student（2021 grade）at Chongqing University🏫
-- 🔭 I’m currently working on START-Lab @ST-Lab, studying on data mining and spatiotemporal data querying
-- 👍 I share some learning resources in my repository @CQU_CS_learning_resources
+- 🌱 I’m an graduate student（2025 grade）at Zhejiang University🏫
+- 🔭 I’m currently working on Daily-Lab, studying on LLM training and inference acceleration, spatiotemporal data mining and management
+- 👍 I share some CQU CS learning resources in my repository @CQU_CS_learning_resources
 - 🥰 Hope to make more friends
 - 📫 How to reach me:
      - 🐧QQ: 1660696144
-     - Email：1660696144@qq.com or zijian.zhang@kangry.net
+     - Email：1660696144@qq.com
