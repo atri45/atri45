@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Zhang Zijian（张梓健）🐑 @atri45
-- 🌱 I’m an graduate student（2025 grade）at Zhejiang University🏫
+- 🌱 I’m a graduate student（2025 grade）at Zhejiang University🏫
 - 🔭 I’m currently working on Daily-Lab, studying on LLM training and inference acceleration, spatiotemporal data mining and management
 - 👍 I share some CQU CS learning resources in my repository @CQU_CS_learning_resources
 - 🥰 Hope to make more friends
